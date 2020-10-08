@@ -290,7 +290,7 @@ nav a:hover::before {
   width: 70%;
   height: 80%;
   left: 30%;
-  top: 11px;
+  top: 3%;
   bottom: 10%;
   background: rgba(0, 0, 0, 0.5);
 }

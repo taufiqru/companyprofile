@@ -1,0 +1,70 @@
+[
+ {
+ "nama" : "Direktorat Jenderal Kekuatan Pertahanan", 
+  "sub" : 
+  [
+	  {
+		"nama"	: "Sekretariat Direktorat Jenderal Kekuatan Pertahanan",
+		"sub" 	: 
+		[{
+		  "nama" : "Bagian Program dan Laporan",
+		  "sub"  : 
+		  [
+		  {
+		    "nama" : "Subbagian Program Kerja dan Anggaran",
+		    "sub"  : [[]]
+		  },
+		  {
+		    "nama" : "Subbagian Perbendaharaan",
+		    "sub"  : [[]]
+		  },
+		  {
+		    "nama" : "Subbagian Evaluasi dan Pelaporan",
+		    "sub"  : [[]]
+		  }
+		  ]
+		}],
+	  },
+	  {
+	   "nama" : "Direktorat Sumber Daya Manusia",
+	   "sub"  : [
+				   	{
+				   	"nama" : "Subbagian Tata Usaha",
+				   	"sub" :[{}]
+				    },
+				    {
+				    	"nama" : "Subdirektorat Perencanaan Penyediaan Tenaga dan Sistem Karier",
+				    	"sub": [
+				    			{"nama":"Seksi Perencanaan Penyediaan Tenaga", "sub" : [{}]},
+				    			{"nama":"Seksi Sistem Karier", "sub" : [{}]},
+				    		   ] 
+				    },
+				    {
+				    	"nama" : "Subdirektorat Pengembangan Pendidikan",
+				    	"sub"  : [
+				    		      {"nama":"Seksi Pendidikan Militer", "sub":[{}]},
+				    		      {"nama":"Seksi Pendidikan Non Militer", "sub":[{}]},
+				    			 ]
+				    }
+	            ]		
+	  },
+	  {  
+	  "nama" : "Direktorat Materiil",
+	  "sub"	 : [{}]	
+	  },
+	  {
+	  "nama" : "Direktorat Fasilitas dan Jasa",
+	  "sub" : [{}]
+	  },
+	  {
+	  "nama" : "Direktorat Kesehatan",
+	  "sub" : [{}]
+	  }
+	  
+  ]
+ },
+ 
+
+  ]
+ }
+]
