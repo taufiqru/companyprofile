@@ -195,7 +195,7 @@ nav ul li i {
 }
 
 nav ul li a {
-	font-size: 18px;
+	font-size: 14px;
 }
 
 nav .mini-logo {
@@ -290,7 +290,7 @@ nav a:hover::before {
   width: 70%;
   height: 80%;
   left: 30%;
-  top: 10%;
+  top: 11px;
   bottom: 10%;
   background: rgba(0, 0, 0, 0.5);
 }

@@ -1,6 +1,17 @@
 .slinky-menu {
- overflow: hidden;
-  transform: translateZ(0); }
+ overflow: auto;
+ transform: translateZ(0); 
+ -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.slinky-menu::-webkit-scrollbar {
+    display: none;
+}
+
+
+
   .slinky-menu > ul {
     left: 0;
     position: relative;
